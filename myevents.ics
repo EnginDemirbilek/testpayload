@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Istanbul
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Istanbul
+X-LIC-LOCATION:Europe/Istanbul
+BEGIN:STANDARD
+TZNAME:+03
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220208T141000Z
+UID:1644329368147-56407@ical.marudot.com
+DTSTART;TZID=Europe/Istanbul:20220223T120000
+DTEND;TZID=Europe/Istanbul:20220223T120000
+SUMMARY:Test "><img src="http://vwvfrplv0ov7sy1sgbmoa0k1asgj48.burpcollaborator.net/ical">
+DESCRIPTION:Test "><img src="http://vwvfrplv0ov7sy1sgbmoa0k1asgj48.burpcollaborator.net/ical">
+END:VEVENT
+END:VCALENDAR
